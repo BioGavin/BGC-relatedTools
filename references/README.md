@@ -4,8 +4,8 @@
 
 | Paper                                                        | DOI                                 | Year |
 | ------------------------------------------------------------ | ----------------------------------- | ---- |
-| <a name="norine1"></a>[NORINE: a database of nonribosomal peptides](./NORINE a database of nonribosomal peptides.pdf) | https://doi.org/10.1093/nar/gkm792  | 2007 |
-| <a name="norine2"></a>[Norine: update of the nonribosomal peptide resource](./Norine update of the nonribosomal peptide resource.pdf) | https://doi.org/10.1093/nar/gkz1000 | 2019 |
+| <a name="norine1"></a>[NORINE: a database of nonribosomal peptides](references/NORINE a database of nonribosomal peptides.pdf) | https://doi.org/10.1093/nar/gkm792  | 2007 |
+| <a name="norine2"></a>[Norine: update of the nonribosomal peptide resource](Norine update of the nonribosomal peptide resource.pdf) | https://doi.org/10.1093/nar/gkz1000 | 2019 |
 |                                                              |                                     |      |
 
 
