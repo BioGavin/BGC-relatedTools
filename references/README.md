@@ -8,7 +8,7 @@
 | <a name="streptomedb1"> [StreptomeDB: a resource for natural compounds isolated from Streptomyces species](StreptomeDB%20a%20resource%20for%20natural%20compounds%20isolated%20from%20Streptomyces%20species.pdf)  </a> | https://doi.org/10.1093/nar/gks1253 |  2013  |
 | <a name="streptomedb2"> [StreptomeDB 2.0—an extended resource of natural products produced by streptomycetes](StreptomeDB%202.0—an%20extended%20resource%20of%20natural%20products%20produced%20by%20streptomycetes.pdf) </a> | https://doi.org/10.1093/nar/gkv1319 |  2016  |
 | <a name="norine2">[Norine: update of the nonribosomal peptide resource](Norine%20update%20of%20the%20nonribosomal%20peptide%20resource.pdf) </a> | https://doi.org/10.1093/nar/gkz1000 |  2019  |
-| <a name="streptomedb3"> [StreptomeDB 3.0: an updated compendium of streptomycetes natural products](StreptomeDB 3.0%20an%20updated%20compendium%20of%20streptomycetes%20natural%20products.pdf) </a> | https://doi.org/10.1093/nar/gkaa868 |  2021  |
+| <a name="streptomedb3"> [StreptomeDB 3.0: an updated compendium of streptomycetes natural products](StreptomeDB%203.0%20an%20updated%20compendium%20of%20streptomycetes%20natural%20products.pdf) </a> | https://doi.org/10.1093/nar/gkaa868 |  2021  |
 
 
 
